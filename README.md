@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Marcelo, welcome to my github👋
+
+Graduated in Administration and in Systems Analysis and Development.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocezario)](https://github.com/marcelocezario/github-readme-stats)
 
 <!--
 **marcelocezario/marcelocezario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
