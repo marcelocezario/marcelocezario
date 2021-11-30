@@ -2,7 +2,7 @@
 
 Graduated in Administration and in Systems Analysis and Development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocezario)](https://github.com/marcelocezario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocezario&exclude_repo=ecommerce-php,arquitetura-software)](https://github.com/marcelocezario/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocezario)](https://github.com/marcelocezario/github-readme-stats)
