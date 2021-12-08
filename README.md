@@ -32,3 +32,7 @@ https://user-images.githubusercontent.com/33532147/145072798-1e1fbde6-15d3-4d71-
 ----------------
 ### Contact
 To contact me, send an email to marcelocezario@gmail.com or send a message/call me at +55 41 99916-2038
+
+Whatsapp: https://wa.me/5541999162038
+
+Telegram: https://www.t.me/marcelocezario
