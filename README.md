@@ -1,6 +1,6 @@
 ### Hi, I'm Marcelo, welcome to my github👋
 
-Java Developer, graduated in Business Administration and in Systems Analysis and Development.
+Java Developer, graduated in Business Administration and in System Analysis and Development.
 
 ----------------
 ### Programming languages
